@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stéphane</h1>
-<h3 align="center">A junior Data-scientist and a learning junkie working @Cognizant in Brussel</h3>
+<h3 align="center">A junior Data-scientist and a learning junkie working @Cognizant in Brussels</h3>
 
 - 🔭 I’m currently working on [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction)
 
-- 🌱 I’m currently learning **Machine learning engineering**
+- 🌱 I’m currently learning **Machine learning DevOps and getting certified on DataIku**
 
 - 👯 I’m looking to collaborate on [https://www.kaggle.com/c/optiver-realized-volatility-prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction)
 
